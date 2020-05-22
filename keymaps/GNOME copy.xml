@@ -1,0 +1,8 @@
+<keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+  </action>
+  <action id="GotoTypeDeclaration">
+    <mouse-shortcut keystroke="shift control button1" />
+  </action>
+</keymap>

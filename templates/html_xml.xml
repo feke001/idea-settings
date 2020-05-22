@@ -1,0 +1,22 @@
+<templateSet group="html/xml">
+  <template name="c" value="&lt;code&gt;&lt;/code&gt;" description="&lt;code&gt;&lt;/code&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_COMMENT" value="true" />
+    </context>
+  </template>
+  <template name="cf" value="&lt;code&gt;false&lt;/code&gt;" description="&lt;code&gt;false&lt;/code&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_COMMENT" value="true" />
+    </context>
+  </template>
+  <template name="cn" value="&lt;code&gt;null&lt;/code&gt;" description="&lt;code&gt;null&lt;/code&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_COMMENT" value="true" />
+    </context>
+  </template>
+  <template name="ct" value="&lt;code&gt;true&lt;/code&gt;" description="&lt;code&gt;true&lt;/code&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_COMMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,14 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="&lt;noname&gt;">
+      <action id="EditorCut" />
+      <action id="EditorDeleteLine" />
+      <action id="EditorTextEnd" />
+      <action id="EditorLineStart" />
+      <action id="EditorEnter" />
+      <action id="EditorUp" />
+      <action id="EditorTab" />
+      <action id="EditorPaste" />
+    </macro>
+  </component>
+</application>
