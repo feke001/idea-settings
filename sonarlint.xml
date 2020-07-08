@@ -1,0 +1,16 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://tsmegrps.arvato-systems.de:19000" />
+          <token>dfcbdf98df9cdf9cdf9cdf9adf93df92dfccdfc9dfc8dfcfdf99df98df9bdf9fdfc8df99dfcedf99df9adf93df9adfcedfcedfccdf99dfc9df92df9cdfcbdf98dfcfdfcbdf99df9bdfcedfcedf9bdf9e</token>
+          <option name="name" value="sq arvato" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
+  </component>
+</application>
