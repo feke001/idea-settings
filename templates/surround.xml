@@ -3,7 +3,6 @@
     <context>
       <option name="JAVA_CODE" value="true" />
       <option name="JSP" value="false" />
-      <option name="OTHER" value="false" />
     </context>
   </template>
   <template name="T" value="&lt;$TAGNAME$&gt;$SELECTION$&lt;/$TAGNAME$&gt;&#10;" description="Surround with &lt;tag&gt;&lt;/tag&gt;" toReformat="true" toShortenFQNames="true">

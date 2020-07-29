@@ -4,29 +4,29 @@
     <extensionMap>
       <mapping ext="vm" type="HTML" />
       <mapping ext="inc" type="JSP" />
-      <mapping ext="16" type="PLAIN_TEXT" />
-      <mapping ext="14" type="PLAIN_TEXT" />
-      <mapping ext="crt" type="PLAIN_TEXT" />
-      <mapping ext="schedule_e" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="digex" type="PLAIN_TEXT" />
-      <mapping ext="init" type="PLAIN_TEXT" />
-      <mapping ext="bpd" type="PLAIN_TEXT" />
-      <mapping ext="reg" type="PLAIN_TEXT" />
-      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="dac" type="PLAIN_TEXT" />
-      <mapping ext="build" type="PLAIN_TEXT" />
-      <mapping ext="mine" type="PLAIN_TEXT" />
-      <mapping ext="dxc" type="PLAIN_TEXT" />
-      <mapping ext="coreiis" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
+      <mapping ext="reg" type="PLAIN_TEXT" />
+      <mapping ext="16" type="PLAIN_TEXT" />
+      <mapping ext="bpd" type="PLAIN_TEXT" />
+      <mapping ext="schedule_e" type="PLAIN_TEXT" />
+      <mapping ext="coreiis" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="srequest" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="dxc" type="PLAIN_TEXT" />
+      <mapping ext="build" type="PLAIN_TEXT" />
+      <mapping ext="init" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="raas" type="PLAIN_TEXT" />
+      <mapping ext="14" type="PLAIN_TEXT" />
+      <mapping ext="digex" type="PLAIN_TEXT" />
+      <mapping ext="mine" type="PLAIN_TEXT" />
       <mapping ext="" type="PLAIN_TEXT" />
       <mapping ext="xreg" type="XML" />
       <mapping ext="utd" type="XML" />
-      <mapping ext="psml" type="XML" />
       <mapping ext="ucd" type="XML" />
+      <mapping ext="psml" type="XML" />
     </extensionMap>
   </component>
 </application>

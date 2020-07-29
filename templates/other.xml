@@ -4,13 +4,11 @@
     <variable name="TYPE" expression="&quot;Object&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR1" expression="suggestVariableName()" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="GROOVY_STATEMENT" value="false" />
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
   <template name="psvm" value="public static void main(String[] args){&#10;  $END$&#10;}" description="main() method declaration" toReformat="true" toShortenFQNames="true">
     <context>
-      <option name="GROOVY_DECLARATION" value="false" />
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>

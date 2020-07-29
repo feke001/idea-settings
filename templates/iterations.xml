@@ -5,7 +5,6 @@
     <variable name="ELEMENT_TYPE" expression="guessElementType(COLLECTION)" defaultValue="&quot;Object&quot;" alwaysStopAt="true" />
     <variable name="VAR" expression="suggestVariableName()" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="GROOVY_STATEMENT" value="false" />
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
@@ -14,7 +13,6 @@
     <variable name="TYPE" expression="&quot;Object&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR" expression="suggestVariableName()" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="GROOVY_STATEMENT" value="false" />
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
@@ -23,7 +21,6 @@
     <variable name="TYPE" expression="&quot;Object&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR" expression="suggestVariableName()" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="GROOVY_STATEMENT" value="false" />
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
@@ -33,7 +30,6 @@
     <variable name="ELEMENT_TYPE" expression="guessElementType(LIST)" defaultValue="&quot;Object&quot;" alwaysStopAt="true" />
     <variable name="VAR" expression="suggestVariableName()" defaultValue="&quot;o&quot;" alwaysStopAt="true" />
     <context>
-      <option name="GROOVY_STATEMENT" value="false" />
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
