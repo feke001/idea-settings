@@ -12,6 +12,8 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*nbproject*</mask>
+    <mask>project*</mask>
     <mask>*.gradle</mask>
   </component>
 </application>
