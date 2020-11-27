@@ -17,6 +17,7 @@
       <mapping ext="dxc" type="PLAIN_TEXT" />
       <mapping ext="build" type="PLAIN_TEXT" />
       <mapping ext="init" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="raas" type="PLAIN_TEXT" />
       <mapping ext="14" type="PLAIN_TEXT" />
