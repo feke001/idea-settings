@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="vm" type="HTML" />
       <mapping ext="inc" type="JSP" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="dac" type="PLAIN_TEXT" />
