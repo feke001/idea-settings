@@ -11,8 +11,9 @@
         <entry key="app/src/main/res/drawable/ic_flash_on_vd_white_24.xml" value="0.17395833333333333" />
         <entry key="app/src/main/res/drawable/logo_mlkit.xml" value="0.17395833333333333" />
         <entry key="app/src/main/res/layout/activity_live_barcode.xml" value="0.171875" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.171875" />
-        <entry key="app/src/main/res/layout/activity_settings.xml" value="0.1578125" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.27309782608695654" />
+        <entry key="app/src/main/res/layout/activity_settings.xml" value="0.27309782608695654" />
+        <entry key="app/src/main/res/layout/camera_preview_overlay.xml" value="0.171875" />
         <entry key="app/src/main/res/xml/preferences.xml" value="0.18645833333333334" />
       </map>
     </option>
