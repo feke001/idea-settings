@@ -30,6 +30,7 @@
       <mapping ext="digex" type="PLAIN_TEXT" />
       <mapping ext="mine" type="PLAIN_TEXT" />
       <mapping ext="" type="PLAIN_TEXT" />
+      <mapping ext="curl" type="Shell Script" />
       <mapping ext="xreg" type="XML" />
       <mapping ext="utd" type="XML" />
       <mapping ext="ucd" type="XML" />
