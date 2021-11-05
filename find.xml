@@ -9,7 +9,6 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="project.properties" />
     <mask>*nbproject*</mask>
     <mask>project*</mask>
     <mask>*.gradle</mask>
@@ -18,13 +17,13 @@
     <mask>*java</mask>
     <mask>build.gradle</mask>
     <mask>*properties</mask>
+    <mask>*.nbp</mask>
+    <mask>project.properties</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*.nbp</mask>
-    <mask>project.properties</mask>
   </component>
 </application>
