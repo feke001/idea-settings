@@ -14,6 +14,7 @@
         <entry key="app/src/main/res/drawable/ic_photo_library_vd_white_24.xml" value="0.17395833333333333" />
         <entry key="app/src/main/res/drawable/logo_mlkit.xml" value="0.17395833333333333" />
         <entry key="app/src/main/res/drawable/top_action_bar_scrim.xml" value="0.17395833333333333" />
+        <entry key="app/src/main/res/layout/activity_create_plant.xml" value="0.3333333333333333" />
         <entry key="app/src/main/res/layout/activity_live_barcode.xml" value="0.171875" />
         <entry key="app/src/main/res/layout/activity_live_object.xml" value="0.16979166666666667" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.27309782608695654" />
