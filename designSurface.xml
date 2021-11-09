@@ -26,6 +26,7 @@
         <entry key="app/src/main/res/layout/product_bottom_sheet.xml" value="0.16979166666666667" />
         <entry key="app/src/main/res/layout/product_item.xml" value="0.16979166666666667" />
         <entry key="app/src/main/res/layout/top_action_bar_in_live_camera.xml" value="0.16979166666666667" />
+        <entry key="app/src/main/res/layout/top_action_bar_in_static_image.xml" value="0.2296195652173913" />
         <entry key="app/src/main/res/xml/preferences.xml" value="0.18645833333333334" />
       </map>
     </option>
