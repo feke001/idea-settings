@@ -16,6 +16,7 @@
       <mapping ext="bpd" type="PLAIN_TEXT" />
       <mapping ext="schedule_e" type="PLAIN_TEXT" />
       <mapping ext="coreiis" type="PLAIN_TEXT" />
+      <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="srequest" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
