@@ -7,13 +7,13 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*properties" />
     <mask>*nbproject*</mask>
     <mask>project*</mask>
     <mask>*.gradle</mask>
     <mask>*Op*</mask>
     <mask>.gradle</mask>
     <mask>*java</mask>
-    <mask>*properties</mask>
     <mask>*.nbp</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
@@ -23,5 +23,6 @@
     <mask>build.gradle</mask>
     <mask>*.xml</mask>
     <mask>project.properties</mask>
+    <mask>*properties</mask>
   </component>
 </application>
