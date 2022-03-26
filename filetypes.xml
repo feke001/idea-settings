@@ -24,6 +24,7 @@
       <mapping ext="build" type="PLAIN_TEXT" />
       <mapping ext="init" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="applications" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="raas" type="PLAIN_TEXT" />
