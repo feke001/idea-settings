@@ -23,8 +23,8 @@
     <mask>*.properties</mask>
     <mask>*.xml</mask>
     <mask>project.properties</mask>
-    <mask>*.java</mask>
     <mask>*properties</mask>
+    <mask>*.java</mask>
     <mask>build.gradle</mask>
   </component>
 </application>
